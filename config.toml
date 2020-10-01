@@ -1,5 +1,8 @@
-baseURL = "http://example.org/"
+baseURL = "http://blog.xcro.top/"
+logoTitle = "xcrossed's blog"
+archivePaginate = 5  
+showArchiveCount = true  
 languageCode = "en-us"
 title = "My New Hugo Site"
 theme = "ananke"
-
+publishDir = "docs"
